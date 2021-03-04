@@ -106,7 +106,8 @@ const FeaturesSplit = ({
                   Phase 1: Release NFT item collection<br />
                   Phase 2: Exchange runes for NFTs<br />
                   Phase 3: NFT 2.0 improvements - licensing, upgradability, fungibility, etc.<br />
-                  Phase 4: Game beta<br />
+                  Phase 5: Airdrop the ARCANE governance token<br />
+                  Phase 6: Game beta<br /><br />
                   More to be announced
                   </p>
               </div>
