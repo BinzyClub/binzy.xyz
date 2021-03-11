@@ -46,6 +46,8 @@ const FeaturesTiles = ({
   const sectionHeader = {
     title: 'Philosophy',
     paragraph: <div>
+      I am Binzy. You are Binzy. We are Binzy.
+      <br /><br />
       Our goal is to bring you the best DeFi projects, as well as our own creations. Each new project building and integrating with the last.
       <br />
       <br />
